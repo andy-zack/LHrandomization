@@ -9,6 +9,7 @@ To install this package, run:
 # install.packages("devtools")
 
 devtools::install_github("andy-zack/LHrandomization")
+library(LHrandomization)
 ```
 
 Then run `?balance_randomization` to view documentation.
